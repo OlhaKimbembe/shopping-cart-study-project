@@ -1,3 +1,5 @@
 node_modules
 package-lock.json
-.parcel-cashe
+.parcel-cache
+dist
+.gitignore
