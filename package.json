@@ -1,0 +1,15 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "start index.html store.html team.html",
+    "build": "parcel build index.html store.html team.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
