@@ -2,7 +2,7 @@
   "name": "shopping-cart",
   "version": "1.0.0",
   "scripts": {
-    "start": "start index.html store.html team.html",
+    "start": "parcel index.html store.html team.html",
     "build": "parcel build index.html store.html team.html"
   },
   "keywords": [],
@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "buffer": "^6.0.3",
     "parcel": "^2.12.0"
   }
 }
