@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>My store</title>
+    <link
+      rel="stylesheet"
+      href="style.css"
+    />
+    <script
+      type="module"
+      src="store.js"
+      defer
+    ></script>
+  </head>
+  <body>
+    <header class="header">
+      <a href="index.html">Home</a>
+      <a href="store.html">Store</a>
+    </header>
+    <div class="items-wrap">
+      <template class="item-template">
+        <div class="item">
+          <div class="image"></div>
+          <h2 class="name"></h2>
+          <p class="price">$22.00</p>
+          <button class="add-to-cart">Add to cart</button>
+        </div>
+      </template>
+    </div>p">
+      <button class="cart">Cart</button>
+      <div class="count-items-in-cart invisible"></div>
+      <div class="cart-box invisible">
+        <div class="cart-items-wrapper">
+          <template class="cart-template">
+            <div class="item-in-cart">
+              <button class="remove-from-cart">x</button>
+              <div class="name-wrap">
+                <p class="name-in-cart">Name</p>
+                <p class="check invisible">x1</p>
+              </div>
+              <p class="price-in-cart"></p>
+            </div>
+          </template>
+        </div>
+        <div class="price-box">
+          <p>Total price:</p>
+          <p class="total-price"></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1 @@
+const cartScript = require("./script");

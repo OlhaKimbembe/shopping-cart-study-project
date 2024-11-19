@@ -1,0 +1,56 @@
+[
+  {
+    "name": "One",
+    "priceCents": 1400,
+    "image-color": "#255c14",
+    "id":"1"
+  },
+    {
+    "name": "Two",
+    "priceCents": 1800,
+    "image-color": "#82a263",
+    "id":"2"
+  },
+    {
+    "name": "Three",
+    "priceCents": 2200,
+    "image-color": "#9eb89a",
+    "id":"3"
+  },
+    {
+    "name": "Four",
+    "priceCents": 1200,
+    "image-color": "#c2c61b",
+    "id":"4"
+  },
+  {
+    "name": "Five",
+    "priceCents": 1500,
+    "image-color": "#87a80c",
+    "id":"5"
+  },
+    {
+    "name": "Six",
+    "priceCents": 1300,
+    "image-color": "#c2cc6a",
+    "id":"6"
+  },
+    {
+    "name": "Seven",
+    "priceCents": 2500,
+    "image-color": "#103a0b",
+    "id":"7"
+  },
+    {
+    "name": "Eight",
+    "priceCents": 1700,
+    "image-color": "#d5e0c0",
+    "id":"8"
+  },
+  {
+    "name": "Nine",
+    "priceCents": 3700,
+    "image-color": "#82a263",
+    "id":"8=9"
+  }
+]
